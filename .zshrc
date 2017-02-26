@@ -22,7 +22,7 @@ local b="antigen-bundle"
 
 
 # Don't load the oh-my-zsh's library. Takes too long. No need.
-	# antigen use oh-my-zsh
+	#antigen use oh-my-zsh
 
 # Guess what to install when running an unknown command.
 $b command-not-found
@@ -60,7 +60,7 @@ $b mafredri/zsh-async
 $b sindresorhus/pure
 
 # Tell antigen that you're done.
-#antigen apply
+antigen apply
 
 ###
 #################################################################################################
@@ -84,11 +84,11 @@ chpwd_functions=( auto-ls $chpwd_functions )
 
 
 # Enable autosuggestions automatically
-zle-line-init() {
-    zle autosuggest-start
-}
+#zle-line-init() {
+#    zle autosuggest-start
+#}
 
-zle -N zle-line-init
+#zle -N zle-line-init
 
 
 # history mgmt
