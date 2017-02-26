@@ -1,5 +1,5 @@
-set default_user "paulirish"
-set default_machine "paulirish-macbookair2"
+set default_user "vasek"
+set default_machine "vasek-macbook-pro"
 
 source ~/.config/fish/path.fish
 source ~/.config/fish/aliases.fish
@@ -12,7 +12,7 @@ if test -d "~/.extra.fish";
 end
 
 # THEME PURE #
-set fish_function_path /Users/paulirish/.config/fish/functions/pure $fish_function_path
+set fish_function_path /Users/vasek/.config/fish/functions/pure $fish_function_path
 
 export GOPATH=$HOME/.go/
 
