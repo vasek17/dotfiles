@@ -64,7 +64,7 @@ brew install fzf
 
 brew install git
 brew install imagemagick --with-webp
-brew install node # This installs `npm` too using the recommended installation method
+brew install nvm
 brew install pv
 brew install rename
 brew install tree
@@ -73,12 +73,40 @@ brew install ffmpeg --with-libvpx
 
 brew install terminal-notifier
 
-brew install android-platform-tools
+#brew install android-platform-tools
 brew install pidcat   # colored logcat guy
 
 brew install ncdu # find where your diskspace went
 
 brew install zsh
+
+# vasek
+brew tap homebrew/versions
+brew tap homebrew/homebrew-php
+brew tap homebrew/apache
+
+brew install cmake
+brew install composer
+brew install dnsmasq
+brew install flow
+brew install gcc
+brew install httpd24
+brew install kubectl
+brew install mas
+brew install mongodb
+brew install mysql
+brew install openssl
+brew install php71 --with-httpd24
+brew install php71-xdebug
+brew install phpunit
+brew install python
+brew install python3
+brew install redis
+brew install selenium
+brew install sqlite
+brew install unrar
+brew install wp-cli
+brew install yarn
 
 # Remove outdated versions from the cellar
 brew cleanup
