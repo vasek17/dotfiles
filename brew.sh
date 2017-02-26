@@ -78,6 +78,7 @@ brew install pidcat   # colored logcat guy
 
 brew install ncdu # find where your diskspace went
 
+brew install fish
 brew install zsh
 
 # vasek
