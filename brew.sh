@@ -86,7 +86,6 @@ brew tap homebrew/homebrew-php
 brew tap homebrew/apache
 
 brew install cmake
-brew install composer
 brew install dnsmasq
 brew install flow
 brew install gcc
@@ -95,15 +94,17 @@ brew install kubectl
 brew install mas
 brew install mongodb
 brew install mysql
+brew install node
+brew install nvm
 brew install openssl
 brew install php71 --with-httpd24
 brew install php71-xdebug
+brew install composer
 brew install phpunit
 brew install python
 brew install python3
 brew install redis
-brew install selenium
-brew install sqlite
+brew install selenium-server-standalone
 brew install unrar
 brew install wp-cli
 brew install yarn

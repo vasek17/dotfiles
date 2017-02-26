@@ -34,7 +34,6 @@ brew cask install sourcetree
 
 # browsers
 brew cask install google-chrome
-brew cask install google-chrome-canary
 brew cask install firefox
 brew cask install torbrowser
 
