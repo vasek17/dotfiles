@@ -44,6 +44,7 @@ brew cask install dash
 brew cask install disk-inventory-x
 brew cask install forklift
 brew cask install insomniax
+brew cask install kitematic
 brew cask install macdown
 brew cask install recordit
 brew cask install the-unarchiver
