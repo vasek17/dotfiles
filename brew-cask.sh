@@ -47,6 +47,7 @@ brew cask install insomniax
 brew cask install kitematic
 brew cask install macdown
 brew cask install recordit
+brew cask install sequel-pro
 brew cask install the-unarchiver
 brew cask install virtualbox
 brew cask install vlc
