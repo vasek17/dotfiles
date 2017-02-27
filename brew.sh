@@ -95,6 +95,7 @@ brew install kubectl
 brew install mas
 brew install mongodb
 brew install mysql
+brew install ruby
 brew install node
 brew install nvm
 brew install openssl
