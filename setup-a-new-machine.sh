@@ -134,6 +134,9 @@ fi
 # the `push` command which copies the github compare URL to my clipboard is heaven
 bash < <( curl https://raw.github.com/jamiew/git-friendly/master/install.sh)
 
+# Set up npm cache
+npm config set cache-min 9999999
+
 # Needed for update function
 npm install -g npm-check
 
