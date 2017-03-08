@@ -86,6 +86,7 @@ brew tap homebrew/versions
 brew tap homebrew/homebrew-php
 brew tap homebrew/apache
 
+brew install awscli
 brew install cmake
 brew install dnsmasq
 brew install flow
