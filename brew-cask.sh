@@ -38,6 +38,7 @@ brew cask install firefox
 brew cask install torbrowser
 
 # less often
+brew cask install adobe-reader
 brew cask install appcleaner
 brew cask install coconutbattery
 brew cask install dash
