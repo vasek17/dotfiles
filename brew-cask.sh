@@ -53,5 +53,9 @@ brew cask install the-unarchiver
 brew cask install virtualbox
 brew cask install vlc
 
+#fonts
+brew tap caskroom/fonts
+brew cask install font-fira-code
+
 # quicklook
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package quicklookase qlvideo
