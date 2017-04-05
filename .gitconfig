@@ -17,6 +17,7 @@
 	excludesfile = ~/.gitignore
 	attributesfile = ~/.gitattributes
 	editor = vi
+	ignorecase = false
 
 [pager]
 	# insanely beautiful diffs ==> npm install -g diff-so-fancy
