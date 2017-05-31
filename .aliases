@@ -47,6 +47,14 @@ alias lsd='ls -l | grep "^d"' # only directories
 alias c='pygmentize -O style=monokai -f console256 -g'
 
 ###
+# KUBERNETES
+alias ku='kubectl'
+alias kuall='kubectl --all-namespaces'
+alias kuho='kubectl --namespace=hosting'
+alias kuseprod='kubectl config use-context hosting-eu-west-1-prod'
+alias kusedev='kubectl config use-context hosting-eu-west-1-dev'
+
+###
 # GIT STUFF
 
 function clone() {
